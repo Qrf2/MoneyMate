@@ -1,0 +1,27 @@
+<TextInput
+                className="border border-gray-500 rounded  text-white "
+                keyboardType="numeric"
+                placeholder="Amount"
+                placeholderTextColor="gray"
+                value={amount}
+                onChangeText={setAmount}
+              />
+              <TextInput
+                className="border border-gray-500 rounded text-white"
+                placeholder="From Currency (e.g., USD)"
+                placeholderTextColor="gray"
+                value={fromCurrency}
+                onChangeText={setFromCurrency}
+              />
+              <TextInput
+                className="border border-gray-500 rounded text-white"
+                placeholder="To Currency (e.g., EUR)"
+                placeholderTextColor="gray"
+                value={toCurrency}
+                onChangeText={setToCurrency}
+              />
+              <Button title="Convert" onPress={convertCurrency} />
+              <Text className="text-white mt-4">
+                {amount} {fromCurrency} = {convertedAmount.toFixed(2)}{" "}
+                {toCurrency}
+              </Text>
