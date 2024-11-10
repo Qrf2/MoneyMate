@@ -35,8 +35,8 @@ Technical Details:
 - Enhanced with Lottie animations and Expo icons
 
 Here are some ScreenShots From my App
-![1](https://github.com/user-attachments/assets/408f0857-924b-4918-bacd-9d6bc34871c0)
-![2](https://github.com/user-attachments/assets/b58ace97-2deb-4039-98ab-5a1f18987bff)
-![3](https://github.com/user-attachments/assets/e34ab335-f446-4f65-b1e4-549f70f1b331)
+
+![1](https://github.com/user-attachments/assets/408f0857-924b-4918-bacd-9d6bc34871c0)      ![2](https://github.com/user-attachments/assets/b58ace97-2deb-4039-98ab-5a1f18987bff)
+           ![3](https://github.com/user-attachments/assets/e34ab335-f446-4f65-b1e4-549f70f1b331)
 
 
