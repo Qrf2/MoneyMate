@@ -1,4 +1,4 @@
-App Type: MoneyMaster
+App Type: MoneyMate
 
 Tagline: Real-time Currency Exchange Rates at Your Fingertips
 
