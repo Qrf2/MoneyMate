@@ -1,38 +1,35 @@
 App Type: MoneyMate
 
-Tagline: Real-time Currency Exchange Rates at Your Fingertips
+Tagline: Real-Time Currency Exchange Rates at Your Fingertips
 
 Description:
 
-Stay up-to-date with the latest currency exchange rates from around the world with Global Exchange Pro! Our intuitive app utilizes real-time API data to provide accurate and reliable exchange rates, ensuring you make informed financial decisions.
+Stay ahead in the financial world with Global Exchange Pro, your ultimate app for real-time currency exchange rates. This intuitive app leverages REST API integration to deliver accurate exchange rates for over 180+ countries, ensuring you always make informed decisions, whether for travel, business, or investments.
 
 Key Features:
 
-- Real-time currency exchange rates for 180+ countries
-- Comprehensive currency list with symbol, flag, and country information
-- Easy-to-use interface with seamless navigation
-- Lottie animations for enhanced user experience
-- Customizable favorites list for quick access
-- Expo icons for visually appealing graphics
-- Tailwind-powered responsive design
-
+Real-time exchange rates for 180+ currencies with country flags and symbols
+Simple, user-friendly interface for quick and easy navigation
+Lottie animations for a visually engaging experience
+Customizable favorites list for fast access to frequently used currencies
+Beautifully styled with Tailwind CSS for responsive design
+Clean icons using Expo vector icons
 Real-Time Updates:
 
-- Instant rate changes for USD, EUR, GBP, JPY, and more
-- Automatic updates every minute
-
+Instant rate updates for major currencies like USD, EUR, GBP, and JPY
+Automatic refresh every minute for the latest rates
 Benefits:
 
-- Accurate currency conversions for travel, business, or investment
-- Stay informed about market fluctuations
-- Compare rates across multiple currencies
-
+Accurate currency conversions tailored for travel, business, or investments
+Stay updated on market changes and fluctuations
+Effortlessly compare rates across multiple currencies
 Technical Details:
 
-- Built with React Native and Expo
-- Integrated with reliable API for real-time data
-- Utilizes Tailwind for responsive design
-- Enhanced with Lottie animations and Expo icons
+Developed with React Native and Expo for smooth cross-platform performance
+Uses Axios for efficient API requests
+Powered by a reliable REST API for live data
+Enhanced with Lottie animations and Expo icons for a polished look
+Tailwind-powered for fast and responsive UI
 
 Here are some ScreenShots From my App
 
