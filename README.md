@@ -31,9 +31,13 @@ Powered by a reliable REST API for live data
 Enhanced with Lottie animations and Expo icons for a polished look
 Tailwind-powered for fast and responsive UI
 
-Here are some ScreenShots From my App
+## Here are some ScreenShots From my App
 
-![1](https://github.com/user-attachments/assets/408f0857-924b-4918-bacd-9d6bc34871c0)      ![2](https://github.com/user-attachments/assets/b58ace97-2deb-4039-98ab-5a1f18987bff)
-           ![3](https://github.com/user-attachments/assets/e34ab335-f446-4f65-b1e4-549f70f1b331)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/408f0857-924b-4918-bacd-9d6bc34871c0" width="240" style="margin-right:4px;" />
+  <img src="https://github.com/user-attachments/assets/b58ace97-2deb-4039-98ab-5a1f18987bff" width="240" style="margin-right:4px;" />
+  <img src="https://github.com/user-attachments/assets/e34ab335-f446-4f65-b1e4-549f70f1b331" width="240" />
+</p>
+
 
 
